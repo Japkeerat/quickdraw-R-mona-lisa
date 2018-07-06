@@ -1,6 +1,5 @@
 # Exploring The Quick, Draw! Dataset With R: The Mona Lisa
 
-fasse
 
 In this experiment I explore the Google Quick Draw dataset. In its [Github website](https://github.com/googlecreativelab/quickdraw-dataset) you can see a detailed description of the data. Briefly, it contains  around 50 million of drawings of people around the world in `.ndjson` format. In this experiment, I used the simplified version of drawings where:
 
